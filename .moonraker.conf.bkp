@@ -27,3 +27,6 @@ cors_domains =
 channel = dev
 refresh_interval = 168
 
+[spoolman]
+server = http://10.1.0.214:7912
+
